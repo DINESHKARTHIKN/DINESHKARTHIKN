@@ -1,36 +1,67 @@
 <p align="center">
-  <img src="https://github.com/DINESHKARTHIKN/DINESHKARTHIKN/blob/main/IMG1.jpg?raw=true" alt="banner" style="width:100%; max-height:300px; object-fit:cover;" />
+  <img src="https://github.com/DINESHKARTHIKN/DINESHKARTHIKN/blob/main/BANNER.png?raw=true" alt="banner" width="100%" height="300px" />
 </p>
 
+<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">DINESH KARTHIK N</span></h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Creative Coder | Problem Solver</h3>
 
-<h1 align="center">Hi 👋, I'm DINESH KARTHIK N</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer Focused on Creating Dynamic 🌐 and User-Friendly 💡 Web Applications Using the MERN Stack 🖥️📦</h3>
+---
 
-# 💫 About Me:
-🔭 I’m currently working on Full Stack Projects using the MERN stack<br><br>
-👯 I’m looking to collaborate on Open Source Projects and full-stack web apps<br><br>
-🌱 I’m currently learning Express.js, MongoDB, and SQL<br><br>
-💬 Ask me about React, Node.js, REST APIs and Frontend Performance
+## 💫 About Me:
+- 🔭 I’m currently building full-stack applications using the **MERN** stack  
+- 👯 I’m open to collaborating on **Open Source Projects** and real-world full-stack apps  
+- 🌱 Currently leveling up in **Express.js**, **MongoDB**, and **SQL**  
+- 💬 Ask me about: `React`, `Node.js`, `REST APIs`, `MongoDB`, and **Frontend Optimization**  
+- 🎯 Passionate about creating elegant, performant UIs and scalable backend services  
+- ⚡ Fun Fact: I turn ☕ into code
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshkarthiknk@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🌐 Connect with Me:
+<p align="left">
+  <a href="mailto:dineshkarthiknk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/DINESHKARTHIKN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DINESHKARTHIKN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DINESHKARTHIKN&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DINESHKARTHIKN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack:
+
+### 🧑‍💻 Programming Languages:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🛠️ Backend & Database:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+### ⚙️ Tools & Platforms:
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DINESHKARTHIKN&theme=dark&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DINESHKARTHIKN&theme=dark&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DINESHKARTHIKN&theme=dark&hide_border=false&layout=compact" width="40%" />
+</p>
+
+---
+
+<!-- Built with 💖 by DINESH KARTHIK N -->
