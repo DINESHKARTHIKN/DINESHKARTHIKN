@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">DINESH KARTHIK N</span></h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Creative Coder | Problem Solver</h3>
+<h3 align="center">🚀 Web Developer | MERN Stack Enthusiast</h3>
 
 ---
 
