@@ -10,10 +10,8 @@
 ## 💫 About Me:
 - 🔭 I’m currently building full-stack applications using the **MERN** stack  
 - 👯 I’m open to collaborating on **Open Source Projects** and real-world full-stack apps  
-- 🌱 Currently leveling up in **Express.js**, **MongoDB**, and **SQL**  
-- 💬 Ask me about: `React`, `Node.js`, `REST APIs`, `MongoDB`, and **Frontend Optimization**  
-- 🎯 Passionate about creating elegant, performant UIs and scalable backend services  
-- ⚡ Fun Fact: I turn ☕ into code
+- 🌱 Currently leveling up in **Redis**, **MongoDB** and **SQL**  
+- 💬 Ask me about: `React`, `Node.js`, `REST APIs`, `Express.js`, and **Frontend Optimization**  
 
 ---
 
@@ -21,7 +19,6 @@
 <p align="left">
   <a href="mailto:dineshkarthiknk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/DINESHKARTHIKN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -48,7 +45,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
