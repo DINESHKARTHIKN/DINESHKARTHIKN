@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/DINESHKARTHIKN/DINESHKARTHIKN/blob/main/IMG1.jpg?raw=true" alt="cover" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm DINESH KARTHIK N</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer Focused on Creating Dynamic 🌐 and User-Friendly 💡 Web Applications Using the MERN Stack 🖥️📦</h3>
 
