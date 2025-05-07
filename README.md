@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/107040689/218724129-47a08ddf-bef9-4805-97e1-028ae42acf98.gif" alt="banner" width="100%" height="300px" />
+  <img src="https://github.com/DINESHKARTHIKN/DINESHKARTHIKN/blob/main/IMAGE.png" alt="banner" width="100%" height="300px" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">DINESH KARTHIK N</span></h1>
