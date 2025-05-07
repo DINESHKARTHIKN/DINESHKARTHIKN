@@ -11,7 +11,7 @@
 - 🔭 I’m currently building full-stack applications using the **MERN** stack  
 - 👯 I’m open to collaborating on **Open Source Projects** and real-world full-stack apps  
 - 🌱 Currently leveling up in **Redis**, **MongoDB** and **SQL**  
-- 💬 Ask me about: `React`, `Node.js`, `REST APIs`, `Express.js`, and **Frontend Optimization**  
+- 💬 Ask me about: `React`, `Node.js`, `REST `Express.js`, and **Frontend Optimization**  
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### 🛠️ Backend & Database:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-4style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub & LeetCode Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DINESHKARTHIKN&theme=dark&show_icons=true&hide_border=false" width="48%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=DINESHKARTHIKN&theme=dark&hide_border=false" width="48%" />
@@ -56,6 +56,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DINESHKARTHIKN&theme=dark&hide_border=false&layout=compact" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DineshKarthikNK?theme=dark&font=Laila" width="50%" alt="LeetCode Stats" />
 </p>
 
 ---
