@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DINESHKARTHIKN&theme=dark&hide_border=false&layout=compact" width="40%" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://leetcard.jacoblin.cool/DineshKarthikNK?theme=dark&font=Laila" width="50%" alt="LeetCode Stats" />
 </p>
 
