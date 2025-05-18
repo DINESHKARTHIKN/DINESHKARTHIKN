@@ -22,7 +22,6 @@
   <a href="mailto:dineshkarthiknk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/DINESHKARTHIKN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1Bo8KecQngHIGSSmT0GywI2TmFMtCAwlC/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=google-drive&logoColor=white&color=0A66C2" alt="Resume Link" />
   </a>
 </p>
 
