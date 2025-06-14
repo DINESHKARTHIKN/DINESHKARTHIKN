@@ -27,7 +27,7 @@
   <a href="https://github.com/DINESHKARTHIKN">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1Bo8KecQngHIGSSmT0GywI2TmFMtCAwlC/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/17Z8gQ3gHCYd3du3ZWVmCQA-cAfbSf-0X/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=google-drive&logoColor=white&color=0A66C2" />
   </a>
 </p>
